@@ -1,0 +1,1 @@
+Cinemas should play a clip with someone saying "OK Google, Silencio! Hey Siri, adjust volume to zero percent!" before the movie starts.

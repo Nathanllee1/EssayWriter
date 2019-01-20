@@ -1,0 +1,1 @@
+420 is the smallest number evenly divisible by 2,3,4,5,6 and 7; but you can't easily divide it into 8ths.

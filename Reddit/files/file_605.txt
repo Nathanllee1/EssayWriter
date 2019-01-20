@@ -1,0 +1,1 @@
+Falling down is the same as being hit by a planet.

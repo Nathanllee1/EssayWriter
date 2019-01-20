@@ -1,0 +1,1 @@
+It's strange that water bottles have nutritional information when all the values are always 0, but alcohol which contains tons of calories and sugar, does not.

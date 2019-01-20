@@ -1,0 +1,1 @@
+When we lose track of the mouse cursor, our first instinct is to move it erratically, because we adapted to looking for quick movements when hunting.

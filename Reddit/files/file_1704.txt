@@ -1,0 +1,1 @@
+Task Manager should have an "End as many tasks as possible without crashing my system" button

@@ -1,0 +1,1 @@
+Fahrenheit is basically asking humans how hot it feels. Celsius is basically asking water how hot it feels. Kelvin is basically asking atoms how hot it feels.
