@@ -1,0 +1,3923 @@
+So as an example here, okay,
+
+so let's say more time.
+
+So the square root of one.
+
+Yes.
+
+So
+
+you'll notice that the square to two x minus one, right, because I
+
+let you represent your inner function, in this case, x minus one,
+
+which is using x minus one is equal to the derivative with two legs two,
+
+yes, yeah.
+
+And then
+
+if I divide both sides by two, and I get one half Do you is it it's a dx. Okay, so let's take a look at what we can replace. At this point,
+
+we have this
+
+route two x minus one, which by
+
+substitute you
+
+for two x minus one. And this is going to become this
+
+word view. In terms of view, I can replace the DX here
+
+with
+
+one half Do you Ryan, since I've sold projects here.
+
+But if you notice, there's one last portion here that we're not able to substitute yet, right,
+
+we like you equal to x minus one. And what is x going to be equal to?
+
+Well, if we go back to you,
+
+equals two x minus one.
+
+And we can solve this equation
+
+for x,
+
+right, so I'm going to
+
+add one to both sides. And I'm going to get
+
+you plus one is equal to
+
+x.
+
+And then I'm going to divide both sides by two. And I'm going to get x
+
+equals you plus one. Number two.
+
+Now, I can take that
+
+and substitute this x, or you plus one or two. And now this is your goal will be completely in terms of you. Okay,
+
+so if I make all of the substitutions, here's what this is going to look like. This can be the integral of
+
+you plus
+
+one over to write letters by c x equals
+
+one words here,
+
+we're placing this order to x minus one with the square root of you. And then we're replacing dx with
+
+one half,
+
+right. And if we put all that together,
+
+and what we get to the one half on the outside here, actually, I have one half and another one half. So I'm
+
+just going to combine those together and put one for us
+
+on the outside. Okay,
+
+so that takes care of both of these. And then the same time, I'm going to distribute the score to view with your plus one, which
+
+squared abuse you to the one half. So usually, the one half times you come to us, and the
+
+three halves
+
+and then the score to do times one is just
+
+the one. Okay,
+
+all right.
+
+And then the rest of you already know how to do right. And we just integrate this function. So this becomes one for
+
+and then the integral of you to the three halves, I'm going to put this in brackets.
+
+So at this point, because can
+
+become due to the five paths
+
+divided by five pounds, which the same thing as times to buy, okay, plus you to the one half plus one,
+
+which will be using three house divided by three house, which is the same as multiplying by
+
+two of the three.
+
+And that's the evaluation of the angel. But remember, it
+
+was constant.
+
+Alright,
+
+so what am I going to do from here? So
+
+what I'm going to do, I'm going to
+
+get a factor of two to
+
+two. And I'm
+
+also going to factor out the use of the three hubs. Okay, since they have that common, right, they both have us to make it back, right? So if I do that, yeah,
+
+one more time to
+
+you to the rehabs.
+
+factor that out
+
+too, to you to the five pounds, and that's going to become just using the two apps or just you multiply
+
+plus and I factor out to
+
+us and three apps from here. So that's going to leave just one that are okay, let's see.
+
+Ok.
+
+And then I probably want to common denominator. So
+
+actually, before we do that
+
+to import,
+
+right, we can divide by two.
+
+So that's going to turn that into one. And that's going to turn this into two. Okay, so yes, one half now.
+
+So this is one half
+
+times views and the three halves and then
+
+get a common denominator between these two, we should
+
+be 15
+
+review. And I got to
+
+talk about this one by five, it's going to be plus five
+
+over another common denominator. Okay. Okay.
+
+And there's less than your background that one
+
+over 15. And that's going to combine with the one or two to make that one of the 30 so just
+
+becomes one
+
+over 30 times you to the rehabs times just three years, plus five
+
+one. Okay.
+
+All
+
+right. So there's are integral in terms of you.
+
+But we want to integral in terms of x.
+
+And the last thing we can do is make the substitution back
+
+for two x minus one for us. So this can become one
+
+over 30 times two x minus 123 half
+
+times three times two x minus one plus five
+
+plus constant,
+
+which if we combine like terms that are consuming three and combined like this one over
+
+32
+
+x minus one
+
+half times
+
+six x, right, and then
+
+they get
+
+three plus five positive to
+
+say
+
+one last thing we get back to
+
+the one
+
+we factor out to, that's going to become to over 30% plus one over 15. So this
+
+becomes
+
+one over 15 times two x minus 123 halves times three x plus one. Okay, what's
+
+right, and this will be our answer
+
+we got
+
+just, I know, you can always check your answer,
+
+just getting the derivative of it. So let's
+
+check, we get the derivative of life, you get the same thing always as well, right, the y prime would be equal to 15. So we will advocate on the outside.
+
+And then when I get the derivative, two x minus one is three times three x plus one,
+
+I have to utilize the product tool. So derivative
+
+of two x minus 123 half is going to be three halves
+
+times two x minus one to the one half. And then by the chain rule, times the derivative of two x, which is two and then times
+
+three x plus one, okay,
+
+and then
+
+plus the derivative of three
+
+x plus one, which is three times
+
+x minus one.
+
+So
+
+this to cancel out with this to over here,
+
+and we can factor out three
+
+from
+
+inside the brackets here. So if I got a three, that's going to become three,
+
+or 15, which becomes one over five
+
+or five times,
+
+and actually
+
+I can background so x minus one to the one half. This last I forgot. So
+
+let's try it again. So it's going to be one fifth, and then
+
+the background to x minus one to the one half as well. And so what that's going to leave in the brackets here, so that respond that
+
+two x minus one to the one episode three x plus one over here. And then
+
+I factored out this the reason that three is gone. And so x minus one to the one half
+
+from took myself to rehab is just going to be two plus two x minus one, okay,
+
+which then becomes one
+
+fifth times
+
+two x minus one to one half times three x plus two x five x,
+
+and then one minus 105
+
+x their hands a lot of five and one fifth, and we're left with
+
+x
+
+two x minus one,
+
+which if you notice, this is exactly what we started with. Right? We just took the integral of x sentence for two x minus one. Okay,
+
+any questions? Okay,
+
+so Justin, yeah, right, when you do substitution. So just to reveal what we do
+
+when you make a substitution, sometimes not everything is going to be able to be substituted in terms of you. So there's something left over that hasn't been substituted like x, or maybe an x squared. And what you want to do is take your substitution and solve it for
+
+x or
+
+whatever you saw the court so that you can make that substitution in terms of you. Okay,
+
+so that's like just a little extra thing that you might have to do when integrated substitution
+
+I think that's all we have time for.
+
+So you should be able to
+
+do now class or point two and over to you. Okay.
+
+Like it just universe in general here by embrace,
+
+where the perspective tax
+
+on getting the indefinite integral x squared with respect to x and
+
+that is going to be x cubed over three plus a constant right
+
+and let's call this capital F of X
+
+and we can check if that's the correct
+
+integral here. But I gave you the derivative of capital index, right,
+
+so we can check
+
+real quick by taking up
+
+Brian x. And that is going to be equal to the derivative of execute for the three which is going to be
+
+three x squared over three
+
+plus the constant the derivative of a constant
+
+zero and three divided by three gives us x square which is the original function that we originally right.
+
+Okay so that being said, let's say we have something a little more complicated.
+
+Let's see we have to integrate
+
+x squared plus one squared times two
+
+x.
+
+Well
+
+one way that you can get this at home, it's definitely by
+
+just multiply now export calls running
+
+right squared, swearing that out
+
+and then distributing the two excellent integrating all of the individual
+
+pieces of the phone number there, right that's one way you can do for you can
+
+think back in the well maybe.
+
+So f of x has to be something that
+
+is going to be become export this
+
+one. So I need a function such that when I get the derivative of it, I'm going
+
+to get x squared plus one squared times two x. Well, maybe I'll get that to x.
+
+If I
+
+if I take the derivative of something like
+
+x squared plus one to some
+
+power, okay,
+
+and maybe that power is going to be x squared
+
+plus one to the third. Because when they take the derivative of that, that's going to bring the three out and that's going to reduce the exponent by one,
+
+right. And I'm going to get the two x by
+
+right by the chain rule when I get the derivative.
+
+But the last thing that doesn't account for is that this is
+
+going to become two times x
+
+squared plus one, or three times x squared plus one squared. So to come to that,
+
+I need to make this over three.
+
+What's the constant
+
+so maybe that's the root of x squared plus one squared,
+
+maybe
+
+let's check
+
+if this really is the anti derivative of this function,
+
+then I should be able to drive it and get x squared plus one squared times
+
+X
+
+PRIZE price of x is equal to
+
+the derivative of x squared
+
+plus one to the third,
+
+which is going to be three times x squared plus one squared,
+
+and then by the chain rule,
+
+times two x and then over three
+
+constant and then the derivative
+
+see this going to be zero,
+
+okay,
+
+and they're just waiting for reply by three cancels out. And we're left with
+
+x squared
+
+plus one squared
+
+times to x
+
+which is exactly the function that we have a diverse
+
+Alright, so instead of going through that whole complex process, right to break down the process that we just went to figure
+
+out that this was the anti derivative,
+
+right without having to multiply x squared plus one squared
+
+and then distributed into two we're going to talk
+
+about
+
+what we call integration by substitution. Okay, so here's how it works
+
+if I have the integral
+
+of g
+
+of x
+
+okay some composition of functions
+
+have with g of x times the derivative of g of x with respect to x
+
+and that
+
+is always going to be equal to capital f of g of x
+
+plus c
+
+okay
+
+we're capital F
+
+capital
+
+FB f
+
+being the function whose derivative
+
+is lowercase f of x
+
+okay
+
+or
+
+you can make a substitution here
+
+if
+
+we let you equal g of x
+
+and then D you the derivative of new with the equal to achieve prime
+
+of x with respect to x
+
+then we can rewrite
+
+f g of x as
+
+lowercase F
+
+of you and we could replace g of x dx with the D you
+
+and that would be equal to uppercase
+
+view
+
+plus c
+
+this is what we call
+
+integration by substitution
+
+which says which basically what it says is if I can
+
+find
+
+that the function and trying to integrate
+
+is actually a composition of two functions and then the derivative of the inner function is also present in the integral that we're trying to
+
+in the integral that we're trying to integrate
+
+then the answer is going to be just the anti derivative of f of x with God exploitive,
+
+okay, composed with us. So let's take a look at
+
+exactly what that looks like.
+
+So we're going to do a redo
+
+of example one,
+
+this time, we're going to actually break down what exactly that we did when we integrated x squared, one squared times two
+
+x.
+
+Okay,
+
+so we're gonna make a couple substitutions here.
+
+Notice that I have x squared plus one squared, which is possibly an inner function x squared plus one
+
+composed with an outer function,
+
+you swear. So we're gonna let us
+
+equals x squared plus one,
+
+then
+
+if that's the case, then D, you the derivative of you, is going to the derivative of x squared plus one, which is two
+
+x with respect to x is equal to x
+
+dx.
+
+Notice
+
+that I have a two x dx
+
+here. So I can replace that with you. And I have an x squared plus
+
+one,
+
+which I could replace with you.
+
+So this integral in terms of view can be rewritten as the integral of view squared,
+
+do you
+
+Yeah.
+
+And then
+
+from here, just integrate with respect. So this is the integral of view squared with respect to you, which using the power
+
+is going
+
+to be used third you to the third over three
+
+plus a constant.
+
+And if you replace you
+
+back in terms of x,
+
+then we
+
+get x squared plus one cubed over three. What's the constant?
+
+So there we go, right? So this is a capital F of X
+
+view, rather, YouTube over three plus a constant with g of x review, x
+
+squared plus 123. Okay. And that is called integration by substitution. Any questions?
+
+Let's try that
+
+we're trying to
+
+integrate x squared
+
+times x cubed plus one
+
+squared
+
+x
+
+squared times x cubed plus once, whereas,
+
+okay,
+
+so I'm going to notice here that x cubed plus one, right,
+
+excellent, x equals y
+
+squared is a function right inside the function, the function
+
+x cubed plus one that is inside of the function
+
+something b squared.
+
+So we're going to let you
+
+be our inner function
+
+of this, which is x cubed plus one.
+
+And if that's the case, then
+
+D, you are the derivative of you, is going to be equal to the derivative of x cubed plus one, which is
+
+three x squared with respect to x,
+
+I want you to notice something real quick here.
+
+So we have our x cubed plus one which will be able to replace with you, but do we have a three x squared dx here
+
+now,
+
+right, we only have X squared and
+
+dx, we don't really have that three. So here's what we're gonna do. We're going to turn
+
+this solve this for x squared dx by dividing both sides by three. And now we're going to have one third d'you is equal to x squared
+
+dx, I was I got it by just dividing both sides by three.
+
+So now I can replace x dx, this x or x squared dx can be replaced with one
+
+or two you.
+
+So finding those substitutions. And here's what this integral is going to look like. Now,
+
+it is going to be used squared,
+
+actually, it's going to be a
+
+writer is going to be used squared times one third to you, which if we put that all together, that is one third u squared, do you
+
+and then we integrate this function with respect to you. So the integral of us squared will be
+
+well, first off one third, right as consciously can
+
+leave that out times the integral of us
+
+square which using the power wall that's going to be new to the third over three and then plus a constant
+
+and then
+
+multiplying these together I get one
+
+nine times you cube at this point, I'm going to replace
+
+you back with x equals one so it's going to be one nine times x plus one
+
+policy
+
+and I forgot one thing right?
+
+So let's call this capital F of X, right? This is our
+
+our anti derivative you
+
+can always check your answer if you're not sure if you got the correct answer
+
+this is our answer
+
+you can always check it by just get into the rhythm of it right
+
+so let's check our answers for x
+
+by getting f prime of x
+
+and x is going to be equal to one nine times the derivative of x equals one to the church which is going to become three times
+
+x plus one
+
+squared
+
+and then by the chain rule, the derivative of x cubed plus one is going to be three x squared
+
+three times three is nine times one night that starts
+
+to become one so these all disappear so leaving us with
+
+x squared times x cubed plus one
+
+squared
+
+is x which
+
+is the function that we've integrated in the first place
+
+confirming that we have the correct one side to root of x squared times x plus one squared
+
+All right,
+
+so you might be thinking at this point
+
+okay well what's the point of the chain rule if I can just multiply our next equals one squared and then you distribute the
+
+x squared right you know we can just do that
+
+and why do we need the table well and the chain rule applies
+
+to more than just automobile functions for example
+
+let's say we want it integrates
+
+signed squared
+
+of three x
+
+times code
+
+alright so
+
+this function
+
+I would notice that science word three x is a function
+
+right within another function right this is sign up three x inside of the function of something is being squared
+
+so we're going to let you the inner function
+
+is a sign of three x
+
+and if you're able to sign up for x
+
+is equal to the derivative of sign of three x which is cosine of three x and by
+
+the chain rule times the derivative of three x
+
+which is three
+
+three co sign for accept if you notice I don't really have that three in here right I just have
+
+cosine three x
+
+dx I'm going to divide both sides by three
+
+again and I'm going
+
+to get 130 you is equal to co sign of three x x
+
+ok so now this cosine of three x
+
+dx can be replaced with 130 view and sine
+
+square to three x is going to turn into you sweat
+
+no substitution so we
+
+now have the integral of us square
+
+with respect to you
+
+which we know how to do
+
+right
+
+it's a lot easier than anybody in the science world in fact you can really do that without
+
+so integral of blue square
+
+become new cubed over 3000
+
+now that's left is just just to replace
+
+you in terms of
+
+x
+
+one third one third you score Do you
+
+think it's a good one so this is going to be one there are times you
+
+cubed over three plus costs and so that's going to become one nine times side of
+
+three x cubed
+
+plus the constant
+
+This will be our
+
+call this capital F of x
+
+integral
+
+lowercase at the max and now let's check that the derivative of this lowercase okay
+
+so
+
+this is our
+
+capital F of x is equal to
+
+so it's going to be one nine times
+
+the derivative of signing for x cubed which is going to be three times side three x squared
+
+and then by the chain rule
+
+the derivative of sight of three x
+
+is going
+
+to be cosine of three x
+
+and then by the one more time the derivative of three
+
+x
+
+is going to be three
+
+times three is nine which cancels out with one night it's a left with
+
+squared of three x times cosine
+
+noticed that is exactly
+
+equal to the function
+
+that we will be great.
+
+Any questions?
+
+Okay. I want you to work on every weekend.
+
+
+Episode of the calculus alone
+
+and then lastly
+
+there's going to be something called the second fundamental
+
+going to play as it removes and rivers and kind
+
+of relationship between integrals enjoy.
+
+Alright so let's talk about the
+
+first main value that
+
+mean value there
+
+girls
+
+let's just write down what it is
+
+reporting the real estate is
+
+continuous
+
+production right this is there four points
+
+in the textbook
+
+so if f is continuous
+
+on
+
+the
+
+clothes interval
+
+from a to
+
+b
+
+and
+
+then
+
+there exists
+
+a number
+
+see
+
+that is within me and
+
+such that's
+
+true
+
+definite integral from a to b
+
+f of x
+
+x
+
+times.
+
+So as long as the function f is continuous
+
+want to
+
+close enroll, then we can guarantee that there's some number see between the end that's
+
+definite integral from a to b
+
+is equal
+
+to FFC time to like to be in a role.
+
+So understand exactly what we're talking about here. Let's draw
+
+let's say this is a
+
+function
+
+A, A,
+
+B, okay,
+
+so if we integrate from A to B, right, if we integrate the extra
+
+add, then what we're
+
+finding is the area under the curve
+
+right under the curve of aspects and above
+
+the x axis, right
+
+between
+
+what the fundamentals of calculus is saying is that these values, what do you see different Twitter? What's happening?
+
+There is a value seek
+
+for sales, maybe about
+
+here
+
+between
+
+this is See,
+
+this is epilepsy,
+
+then the area under the curve
+
+is equal to
+
+FFC
+
+signs
+
+the lines
+
+area this rectangle
+
+right here.
+
+So what we're saying is that the area under the curve
+
+like so the area of this rectangle, by the
+
+way, if
+
+you know this is equal to FMC
+
+times b minus, right, right, right. And what
+
+we're saying is that the area of this rectangle here,
+
+we've chosen the right seat
+
+here, is equal to
+
+the integral the definite integral of f of x with respect to x between
+
+the end which is basically the area under this curve between and
+
+that's what we're saying,
+
+as long as function is continuous, we can guarantee that there is at least one value see such that
+
+this rectangle is going to equal to the area exactly
+
+the value down.
+
+So that being said, function is continuous, we can find we can guarantee that there is as Lisa value of See, and we can find that we see.
+
+So we're still an example where we're going to find
+
+let's call this example one here
+
+we're going to do is find
+
+value or possibly values
+
+See,
+
+guaranteed
+
+by
+
+main value there,
+
+the following function
+
+f of x
+
+equals nine over x cubed
+
+over the interval
+
+from one to three.
+
+So first off,
+
+so we're gonna find it, obviously, that's guaranteed by many different
+
+roles, okay, for value
+
+function, nine over x cubed over
+
+the interval from 123. Okay,
+
+so the
+
+first thing that we need to do whenever we're playing in the valley there right now, there's for any goals are for new derivatives is to make sure that the hypothesis is true. And hypothesis that we need to make sure that it's clear
+
+is that if this continues over the
+
+Okay, so let's take
+
+a look at every night of rescue. Is that
+
+going to be continuous over the interval from one to three? Yes, right. It has the discontinuity at x equals zero, but that's not within the animal from one to three. So the meantime replies, or this function over the interval up, I want to do it
+
+again, from the first day that FX
+
+FX is continuous
+
+over the interval from
+
+Ok,
+
+so now we can go ahead and buy the main value there. And four states that if we get
+
+the
+
+definite integral from one to three,
+
+nine over x cubed
+
+x,
+
+then that should be equal to see, right, some of them see times b minus eight. So FC would be nine overseas cubes, times b minus a, which in this case, is three
+
+minus one.
+
+So this is the
+
+area right some rectangles
+
+equal to the value of this room. Okay.
+
+Alright, so next thing we're going to do is evaluate the seven year old here. So this is technically nine x to the negative three x three self, evaluate the integral, that is going to be nine x to the negative to over negative two. Okay,
+
+so that is going to be negative nine over to
+
+the negative to
+
+evaluate evaluated as one in three.
+
+And on the other side, I'm going to just go ahead and simplify
+
+this year, three minus one is two times 918, 18
+
+over some
+
+on the white side, okay,
+
+all right, let's evaluate this function here.
+
+So if we evaluate at
+
+three, three to the negative two is going to be one over nine.
+
+And then that's going to cancel out with this night here.
+
+So we're going to be left with negative one half.
+
+And if
+
+we plug in one once the negative two is just one times negative two times negative number two
+
+is going to be negative nine
+
+plus or
+
+minus negative nine over to
+
+still equals
+
+cubed.
+
+And I must take care of this. So this is going to be
+
+negative one half
+
+plus nine house. So
+
+negative one half plus I have eight pounds, and we have divided by
+
+four
+
+equals three to oversee. Cute.
+
+Alright, so now we got to solve for CS. I'm just gonna multiply both sides by ice cubes and get four CPU equals at and I'm going to divide both sides by four. And we get
+
+this one. Yeah, so
+
+we divide both sides by for we're going to get
+
+CQ equals at over four
+
+or nine number two
+
+equals
+
+this point, take the keeper both sides. And vitamin C
+
+is equal to the cube root of nine over two.
+
+Or
+
+since
+
+we want to make sure that it's within the interval here
+
+they give an animal we get the keyboard and mouse over to which turned out to be about 1.65. Okay, please notice the animal from 123. Okay,
+
+so C equals 1.65 would be the guaranteed
+
+value such that if we get to the area of a rectangle, right,
+
+with two and high
+
+that should be equal
+
+to the value of this
+
+to the value of this definitely
+
+right the area under the curve between wanting to design a rescue. Okay,
+
+so basically, right.
+
+So 1.6 slides with you the height of this rectangle
+
+here, okay, the okay with the three in one in this case, and then this would be the perfect excuse. He said, Okay,
+
+all right.
+
+Questions? not
+
+guaranteed,
+
+as long as the function is continuous, okay, doesn't have to be differentiable, it just has to be okay. All right.
+
+So now that we have that,
+
+let's talk about now
+
+the average value
+
+of a function
+
+can be a very valuable calculation, right? If I have a velocity function, and I want to know what was the average velocity on the trip, okay. Or if I have a function that
+
+tells me how much spending is happening.
+
+And I want to know what's the average amount of spending that was happening over a certain amount of time, we also very valuable calculation.
+
+So here's how we calculate the average value
+
+of the function
+
+it
+
+is integral
+
+as it has
+
+it has a integral
+
+on the
+
+clothes in a role for me to be
+
+then
+
+the average value
+
+soundbite
+
+average value
+
+of x
+
+is equal to
+
+one overview minus
+
+a
+
+integral from a to b,
+
+f of x.
+
+Now, do you know something similar here between this and number one,
+
+take a look back at number one real quick
+
+guarantee value. See, such that
+
+x is equal to two times
+
+b minus I divide both sides by b minus a
+
+are basically solved discrepancy and get FC is equal to one over b minus eight times the integral from a to b about the guys with respect to x. So
+
+this Have a seat that we find
+
+is actually the average value of the function. Okay,
+
+that's number one. Okay.
+
+All right. So that being said,
+
+let's find the average
+
+equals three x squared
+
+minus two x
+
+pulling the interval
+
+from one.
+
+So if I want to find
+
+the average value, the average value that this function takes over the interval from one support,
+
+then
+
+we're going to find that
+
+the average value
+
+is
+
+equal to one over the minus eight, which is four minus one
+
+times the integral from a to b
+
+143 x squared
+
+minus
+
+two x with respect to x.
+
+And then
+
+the rest is just calculating
+
+right, so it's
+
+going to equal to one third
+
+one performance one is one right time. And we're going to integrate three x squared minus two x over the integral of three x squared is going to be three x cubed over three, we divide by three is going to become one,
+
+so we're just gonna get
+
+skewed
+
+in a row of negative two x is going to be negative two x squared, or two to five by two is going to become negative one. So not just minus x squared, okay,
+
+that is going to be evaluated
+
+one and forth by using the fundamental calculus.
+
+So then you
+
+get
+
+one third times, and then these brackets at this
+
+point. So dysfunction evaluated at
+
+four, that's going to be for cubed minus four squared support to us is
+
+4064, or swear to 16. So there's gonna be 64 minus 16
+
+minus the same function
+
+evaluated at 111 cubes.
+
+One minus one squared is also one,
+
+which is zero, right?
+
+So we have to do 61, third time 64 minus
+
+1664 minus 16 is 48, 130
+
+times 48,
+
+and 130 and 48 is 42, or three, which is 16. Okay?
+
+That would be the average value that assumption hates
+
+that assumption. Next, right over the
+
+interval.
+
+And it was also happens to be if we weren't using the main value therefore, integrals and found that value see, that was guaranteed, we would find that this would be the height of that
+
+rectangle, right?
+
+This would be
+
+such that
+
+area of this rectangle people to the area.
+
+Wait, what
+
+does that 16 number like, mean? Mike,
+
+this is the average value that this function so this function takes a bunch of different values between one and four
+
+one, this is equal to one at for this is equal to what is that
+
+16 times three is 48 plus
+
+this equals this on the
+
+right is equal to 48 hours of all of the values that it takes
+
+the average value that it takes over one to four. Okay,
+
+all right. Yeah, if this was our speed function, right? If this was speed, this would
+
+have been our average speed assistance from one to four. Okay, yeah, it's cool
+
+that it 16 is equal to FTC through
+
+before, can you use the two interchangeably? Or is there
+
+right? So what you're finding here? So what do you find in the evaluator
+
+just to be clear, right? We sold per seat, right?
+
+It's all proceed
+
+but if you find just FFC
+
+if you find what just this is equal to nine oversee cues in this, right, in this
+
+particular example, if you divided both sides by two, then that would have just given you buy that would have given you the average value of the function, right.
+
+So in some cases you solve received by providing
+
+the
+
+value of seeing them to buy their refined and see in the case of the average value function you're buying from see, okay,
+
+all right. So
+
+Other questions?
+
+Alright, cool.
+
+So
+
+so these are three inputs, talk about what the second fundamental,
+
+alright, so in order to understand the second fundamental calculus, we have to start thinking about the penumbral as a function, rather than the definite integral as function rather than have
+
+enough.
+
+So to understand the difference between two,
+
+let's take a look,
+
+if I'm talking about the definite integral as a number of
+
+definite
+
+integral
+
+as a number,
+
+then this is what we're used to
+
+experiencing the definite integral as
+
+right, we take the integral from a to b of some function f of x
+
+with respect to x,
+
+and we get some number, right, so we get a number.
+
+But now I want you to start thinking about the definite
+
+integral
+
+instead as a function, okay,
+
+we had the function, let's call it capital Fx
+
+is equal to
+
+the definite integral
+
+from A x
+
+of f
+
+t with respect to t. Okay,
+
+I'm only making this tea with respect to t, because we already have an
+
+x over here
+
+are variables confused,
+
+Alright, so let's
+
+kind of wrap her head about
+
+run the difference between, okay,
+
+in this case, here, we specified
+
+like a lower down in an upper bound to evaluate the integral of f of x, okay,
+
+in this case, here, we make a function where while we freeze the lower, we make the lower bound a constant, but we're making the upper bound have a definite integral a variable, okay, so depending on what I plug in for x is going to change the upper bounds that I evaluate this definite integral over okay
+
+so for example,
+
+an example will help us understand what I want you to imagine we have we come from all this capital F of x
+
+is equal to the integral from
+
+zero to x. So this is our pics, lower balance is going to be our variable,
+
+other bands of cosine of tea with respect the team.
+
+So given that
+
+parts
+
+here, let's evaluate
+
+f of zero, okay,
+
+well, if I'm plugging in 04 x,
+
+then that is going to be the upper bounds
+
+of this integral.
+
+So this is going to become episode zero is the integral from zero
+
+to zero
+
+of CO sign up to you with respect to t.
+
+And as we know, when the lower bound is the same as the upper bound for a definite
+
+integral, that's just going to be zero, okay,
+
+because you're finding the area under the curve of an infinitely thin interval, which there's not going to be an area if there's no with
+
+try that again.
+
+But now let's say we asked you to evaluate f
+
+i over six. Okay,
+
+so if I'm evaluating EPA five or six and that is going to become
+
+the upper bound of this integral. So
+
+this is going to become the integral from
+
+zero to two pi over six
+
+post IFTTT
+
+which to evaluate that I'm going to evaluate right
+
+cosine t which is negative sign
+
+positivity
+
+positivity and I'm going to evaluate that from zero to five or six
+
+okay
+
+aside of five or six is one half
+
+minus sign of zero is zero
+
+so we get one half minus zero or one half
+
+So f
+
+of five or six is equal to one because that is the value
+
+of this definite integral when we make the upper bound five or six
+
+times
+
+more times here if we do
+
+have a pi over for
+
+then the upper
+
+bound mouth of the Lord is the concept was possibly
+
+zero
+
+and now we're making the outbound pie before
+
+of cosine of tea tea
+
+which again
+
+we're going to integrate cosine of tea which is going to the side of tea
+
+and now
+
+evaluated from zero to five or four
+
+okay inside a pie before
+
+is rude to over to my side of zero
+
+zeros and get routed over to minus zero
+
+or group to over two and this would be the value of f applies
+
+continuing the same example here
+
+of
+
+Overseers
+
+FBI over to you would be the integral from zero to two pi over to
+
+co sign of T T, co sign of tea with
+
+like to see is going to the side
+
+of tea, we're going to be
+
+evaluating that
+
+from zero to apply
+
+to sign up fiber to one side, and 00 to one minus zero equals one. Okay.
+
+Alright,
+
+so you get the idea, right. So we're just basically plugging in
+
+whatever will plug it into capital F of x is going
+
+to be determining the upper bound
+
+this definite integral.
+
+OK, so now function
+
+that is based on the definite integral. Okay,
+
+so
+
+let's figure out what is f of x
+
+with respect to x
+
+x is equal to the definitely role for x and cosine and sine of t
+
+t
+
+by integrate cosine of tea and again, side of tea and evaluate that from a to x.
+
+So that is going to be
+
+sine of x minus side of a
+
+capital F
+
+of x in terms
+
+of x, x
+
+minus sign of a word is a constant.
+
+So what happens when I guess the derivative of f
+
+of x
+
+is equal to the derivative with respect to x
+
+upside of x minus sign of a
+
+derivative with respect to x have side effects
+
+is cosine x.
+
+And the derivative of sign of a, which is a constant
+
+is going to be zero.
+
+So we get capital F
+
+is equal to co sign, Max
+
+Max
+
+integral
+
+definitely role from a
+
+duty
+
+This brings
+
+us to the second fundamental calculus, okay, we're states the ball
+
+is continuing
+
+on an open interval
+
+containing
+
+some constant,
+
+then
+
+every x
+
+in the
+
+following
+
+will be true,
+
+the derivative
+
+with respect to x,
+
+x
+
+with respect to t
+
+equal to,
+
+what do you think
+
+Max, we have f of x equals
+
+x and cosine, we took
+
+the derivative of it, and we got
+
+to sign.
+
+So if
+
+we generalize that, if I have a definite integral from
+
+right, which is something that is changing based on
+
+depending on the X, and I take the derivative event with respect to x, let me think we got
+
+the original function with respect to x,
+
+say this
+
+is the second one.
+
+And this establishes an important relationship between the derivative
+
+of
+
+the second
+
+capitals,
+
+because we take the derivative with respect to x
+
+magic.
+
+Yeah, that's basically
+
+what we ended up we ended up with, so it's going to be in terms of x.
+
+Alright,
+
+so there we go. So using that relationship, okay, if I get the derivative of a definite integral came from some constants, x of the function with respect to any other variable,
+
+what I'm going to get it.
+
+So using that probably,
+
+let's evaluate some derivatives here.
+
+Suppose I want the derivative with respect
+
+to x of
+
+the
+
+definite integral from negative ones in x,
+
+the square root of t squared minus one with respect to t.
+
+Why do we get
+
+this is f t
+
+t t t squared minus one.
+
+So what we get
+
+this is the same function with respect to x
+
+squared of x squared minus one
+
+more time.
+
+Let's say we have
+
+the derivative with respect to x, the integral from eight to x,
+
+x cubed.
+
+Oops, I'm sorry. Let's try that again.
+
+t cubed
+
+minus t squared plus one with respect to t
+
+minus c squared
+
+plus one.
+
+What is this? Okay,
+
+um, let's see one more,
+
+this one's gonna be a little more complicated.
+
+Let's say we have the derivative with respect to x of the integral from pi over to to execute
+
+cosine of TT.
+
+So
+
+that's not x. But now it's the integral
+
+integral from fiber to to execute a cosigner teaching,
+
+this one's gonna be a little more complicated, let's write this down a little bit. So we're going to call the capital and backs
+
+this function here. Okay, inside
+
+integral from pi over to
+
+execute
+
+cosine.
+
+And then we're gonna make a little substitution here,
+
+we're gonna let you
+
+equal execute.
+
+And if you're able to extract x
+
+three x squared,
+
+so if I make that somehow equals
+
+definitely role for fiber to to, now you have cosine of TT. Okay,
+
+so
+
+by the chain rule, if I want the derivative
+
+of capital F with respect
+
+to x,
+
+and that is going to be the derivative of capital F with respect
+
+to you, times the derivative of you with respect to x, right?
+
+So what is the derivative of f with respect to you?
+
+Well, that's going to be the derivative of this right here, which is going to be co sign of you.
+
+And then what is you prime of x
+
+squared.
+
+Now, if you make a substitution back for you, in terms of x, and what we get is three x squared times cosine. Execute. And this
+
+Alright,
+
+so if the upper bound is something other than x,
+
+x squared, or cube or two
+
+X, even, you have to utilize
+
+the chain rule to be able to evaluate them, okay, because you're gonna have to make a substitution, you're going to
+
+get the derivative, right, you're gonna have to
+
+make a substitution in terms of you rise, and now you have just
+
+like five or two to some during the trial or to
+
+some variable
+
+and now you know, the derivative of that is going
+
+to be easy.
+
+The derivative of this would affect you is just focus on the view, but then you got to utilize the table
+
+and make sure you get rid of
+
+you with respect to Okay.
+
+All right. Any
+
+questions?
+
+All right,
+
+more content and more
+
+value for
+
+integral
+
+like the average value function and you can now apply the
+
+second fundamental
+
+
+Yeah and then you realize yeah
+
+just to
+
+bring everything down
+
+we have one third finding two plus three
+
+is
+
+a negative here that's going to be a minus negative one
+
+plus
+
+one third minus two minus negative three
+
+plus three and then bring all of these towns plus 64 over three minus
+
+plus 12 mind everything that has denominator group
+
+together so that's one third two
+
+thirds of the four
+
+thirds is going to be 6630 and then the whole numbers of negative two plus three one minus two is negative one plus three
+
+plus three is positive to
+
+minus eight is negative six and then plus 12 is
+
+going to be
+
+okay value for
+
+this option right that's going to be
+
+it should be nice to
+
+make this a negative 31
+
+to
+
+30 negative 30 plus forms
+
+there
+
+and then 6265 by three becomes 2222 months 18 and our final answer
+
+alright so that's what we should get for number 26 yes
+
+for number 28
+
+one minus sign squared
+
+by the
+
+dagger and identity
+
+for data
+
+or some sort of data divided by one the integral from zero to apply
+
+for this one
+
+right or just the data which gives us data
+
+evaluated from
+
+zero to five reporters evaluate a pie before it's going to be hiring for evaluating zero is going to be zero so final answer
+
+okay and then lastly
+
+number 32
+
+evaluating from a pirate pirate to the integral of to t plus cosine t integral of to team is going to be to t squared pursue or just t squared integral of cosine team is going to be positive Simon T.
+
+Evaluate that for me to fly over to
+
+type or two, so a time or two that's going to be pi squared over four plus sign of pi over to or
+
+minus negative five or two squared
+
+is still going to be pi squared over four
+
+plus sign negative pirates here.
+
+Alright, so
+
+this becomes pi squared over four and sign of fiber to the positive one.
+
+And then we're going to get minus five
+
+squared over four and a
+
+minus sign and a pirate to sign it. Negative five or two is
+
+negative one. So minus negative one, that's going to be positive. One last word before minus pi squared report cancels out and we're left with one plus one
+
+equals two.
+
+Okay? So it's only three. No time for notes. So let's go into this point. It's your newsletter time and one post classwork and the homework property hacking.
+
+
+Five or three times three. Okay,
+
+we can do that. So
+
+this is going to be four times we can have higher three,
+
+which cosigner five or three is one so one over one half
+
+so you're gonna find the three
+
+minus
+
+four times so you can have negative pirate three and so you
+
+can have negative five or three is going to be the same thing so you can apply with the right assignments in the fourth quadrant we should focus on TV important part of the mechanism the first one
+
+so this will be four times
+
+four times three months four times here
+
+which is eight minus eight which is zero. Okay
+
+so that tells you that this is an odd function, right we immigrated to function from Vegas it's a zero
+
+functions. All right,
+
+so there's got
+
+less so take a look at the homework out
+
+numbers
+
+negative x minus x squared
+
+over
+
+to start off by rewriting this interval if you
+
+were to Max's x to the one
+
+negative a negative one.
+
+So x
+
+divided by x to the one third x to the two thirds
+
+over to.
+
+And then I'm going to divide negative x squared
+
+like superbikes as well. So the
+
+same thing
+
+minus
+
+this is x to the 630 minus x to the one third. So that's going to become
+
+530. And then also over to
+
+good.
+
+And now
+
+we integrate. So
+
+this is going to become,
+
+this is going to become excellent five thirds
+
+times 350. So three fifths times one half is going to be three to 10
+
+times
+
+this one is going to become x to the
+
+eighth.
+
+And three
+
+times negative one half is going to be
+
+negative three over 16 times X 30. Okay,
+
+evaluated
+
+negative a
+
+negative one.
+
+So let's evaluate this negative one,
+
+negative one to the five thirds as we pointed out, right, it's going to be an odd power of negative one.
+
+So that's going to become negative
+
+times three times. So that's going to be negative three tenants.
+
+And then
+
+negative ones that the eight that's going to become positive one, because that's going to be negative ones that have a power and they go one, two to the power to the other one,
+
+the positive one times negative 316. Okay,
+
+so here's the function, right value. But in a negative one. Now we need to evaluate it at negative, okay,
+
+so as negative eight, so negatively to the five thirds is going to be the cube root of negative states to the fifth power.
+
+OK, so the cube root of negative it is negative to negative two to the fifth power is negative 32
+
+times three.
+
+And that's going to become negative 96. Okay,
+
+maybe it is
+
+going to become negative to get rid of database to and then that's going to become negative two to the HR is a pretty large enough. So here's what I'm going to do except for this one.
+
+So this is going to be
+
+negative two
+
+minus three times negative two to the fourth
+
+times negative to the issue,
+
+right? Because
+
+that's technically negative to to be
+
+over 16.
+
+And why do I do that?
+
+Because what is native to the fourth,
+
+what's negative two to the power of
+
+negative two times
+
+that's right. So can can flow with that, okay,
+
+so we get
+
+negative three over
+
+over 62, that's gonna become
+
+was the I was six over 10.
+
+And then this is going to become minus negative three times negative to the point is
+
+positive. 16 times negative three is negative 40.
+
+So
+
+minus negative four plus
+
+four years. Okay,
+
+I'm going to combine these two together. And that's going to become 93%.
+
+So that's going to be 93 over 10 minus three over 16 plus 48, the whole number,
+
+OK. And now, if I
+
+want my answer expresses a fraction,
+
+I want a common denominator between these three and the least common
+
+denominator between 1016 and one is at, okay, so we got to multiply 93 over 10 times eight over eight.
+
+And that gives us 744 over at
+
+negative there were 16, I got a multiply the top and bottom by five. And that's going to
+
+become minus 15 over 80 and 48 over one, I got to multiply the top and bottom by at, okay, at times 48.
+
+Well, that's going to be
+
+what, 4000 minus 160,
+
+right. So that's 3840.
+
+And we're
+
+now just add all those together,
+
+744 minus 15 plus 3800, 44,569
+
+over at
+
+this
+
+point, you should about
+
+this, the questions
+
+start taking
+
+a look at number four, which I already gave you a hint about,
+
+right.
+
+So we kind of started this
+
+already on Thursday.
+
+So if I have three minus the
+
+absolute value of x minus three, that can be split up into a peaceful a function, that is three minus x minus three,
+
+x is greater than or equal to three. And that is three minus the opposite of x minus 30, or 11 weeks. Three plus x minus three,
+
+x
+
+is less than one, x is less than three. Okay,
+
+so since the function is different, what is
+
+greater than three in one, lesson three, we know that the integral into two
+
+separate intervals, right one going from one to three, because these are values 111 x is less
+
+than three.
+
+And then one end goals or something before because these are guys like Texas, rather than or equal to, can never get to integrate these functions, respectively,
+
+and add them together.
+
+So I'm going to simplify it. So continuing where we left off here, three, plus x minus three, the three,
+
+the negative three
+
+can cancel out, so leaving you with just the integral from one to three
+
+of x with respect to x, okay,
+
+simplify this function over here,
+
+the integral from three to four,
+
+three minus negative three is going to be positive six, and then that's minus x.
+
+OK,
+
+so
+
+anyway, great, that's a great x with respect to
+
+x. And that's going to be x squared over to evaluating from one to
+
+three.
+
+And
+
+then every six months
+
+actually,
+
+and this is going to be six x minus x squared over to evaluated at three.
+
+Alright,
+
+so let's start with this integral over here.
+
+So we're, we're just evaluating this at this
+
+point, right? We already calculated the interval.
+
+So x squared over to evaluate a three and one is going to become nine over to minus one or two, okay, and then plus,
+
+and then we're going to integrate our evaluate this function at four,
+
+so that's going to be six times
+
+for which is 24 minus four squared over to, there's going to be 16 number two, which is eight, okay,
+
+and then minus
+
+the function evaluated at
+
+three. So six times three is a
+
+minus three squared over to, which is going to be nine
+
+over to minus nine. Number two. Okay?
+
+Alright,
+
+so let's do some simplified here,
+
+number two, minus one over soon, it's going to become eight over to, which is for
+
+right, so then
+
+I'll just bring down the plus 24 minus three.
+
+And then I'm going to distribute the negative as well. So it's going to become
+
+minus 18 plus nine over here.
+
+OK,
+
+now the rest is just adding stuff up, right?
+
+So four plus 2428
+
+minus eight
+
+is 20. And 20 minus eight is to to now we got to do two plus nine. Number two, two is four plus nine halves.
+
+And as a fraction or answer should be 13. Okay.
+
+All right. So let's talk about number 26. So if
+
+you understand that,
+
+then
+
+easy time figuring out so you have the absolute value of x squared
+
+minus four plus three,
+
+we bring that absolute value function with
+
+respect to
+
+x from 04.
+
+So for somebody want to recognize that x squared minus four exposed to the respectable
+
+the absolute value of x minus three x minus one. Okay,
+
+now we want to figure out, when is this
+
+going to be
+
+positive? And what is this number goes negative.
+
+So this is where you use a number line.
+
+So this is the part where you just make a little number line one in three, because, you know, the mastermind this function is going to be zero.
+
+And you figure out well, okay, what is this going to be negative, and when is this going to be
+
+positive? Well, if we plug in, and number that's less than one, like say zero, that's going to be zero minus three, which is negative three times negative one.
+
+And that's going to be a positive number.
+
+So
+
+now we know is positive there
+
+between one and three, let's say we plug into that seem to be negative one times one,
+
+and that's going to be a negative number,
+
+and then to the rise of three, like saying plugin for, that's going to be one times three, which is also going to be a positive
+
+number. So
+
+knowing that this is a positive number, for all numbers, little less than one in greater than three, and that it is negative, or the numbers between one and
+
+three, we can split this up
+
+into a piece of ice function,
+
+right, so the absolute value of x minus three
+
+times x minus one
+
+is equal to or function
+
+is x minus
+
+three times x minus one,
+
+x minus three times x
+
+four x
+
+axis between
+
+three and one, and is x minus three,
+
+again, times x
+
+minus one
+
+when x is
+
+greater than three.
+
+So there we go. And since it's zero, anyways, that one and three, we can just
+
+put that out there. So now the function is defined for the values of x, okay? Okay,
+
+so that being said, we're going to split this up
+
+into three
+
+integrals here. Okay, we'll split it up into three integral. So this is going to be called the integral from
+
+zero to one,
+
+because one is where
+
+it's going to change signs of this function
+
+x minus three times x minus one, or I told I'm actually just going to multiply back out to x squared
+
+minus four x plus three
+
+x plus.
+
+And then we're going to integrate from one to
+
+three,
+
+this function here.
+
+So this is going to be just the opposite of x squared, minus four, plus three,
+
+so that's going to be negative x
+
+squared, plus four x minus three with respect to x.
+
+And then lastly, we're going to integrate from three to four,
+
+this function. So this is going to be the integral from three to four x,
+
+I'm just
+
+going to multiply that function out. And that's going to be x squared minus four x plus three,
+
+right? There we go.
+
+Let's just evaluate these angels. Okay,
+
+so
+
+integral of x squared
+
+minus four x plus three with respect to x is going to be x cubed over three minus
+
+four x
+
+squared over to incentivize the two x squared
+
+and then plus
+
+three x,
+
+and that will be evaluated at zero and one,
+
+and then we're going to integrate negative expertise
+
+for
+
+x minus three,
+
+which is
+
+negative x cubed over three. So it's basically going to be the opposite of
+
+this, right? And then those can be plus two x squared minus three x evaluated at one, three. Okay.
+
+And then lastly, in April of this function is the same as the April of this function.
+
+So once again, we'll have x cubed over three minus two
+
+x plus three x, and that will be evaluated at three and four. Okay.
+
+All right.
+
+And then
+
+the last part, now we just evaluate,
+
+right, so
+
+evaluated one is going to become one third minus two plus three,
+
+and then evaluated zero, that's just going
+
+to become zero, right? So we're done with this person, girl, okay,
+
+let's calculate this one over here. So this is going to become
+
+plus evaluated at three, that's going to become negative 27 over 3217 number three is nine. So that's going to be negative nine.
+
+And then three squared is nine times two is going to be team
+
+and then minus three times three, that's going to be minus, okay,
+
+similar stat. And then lastly, this function evaluated at
+
+three and four, so plus, oops, I didn't evaluate it,
+
+right?
+
+So minus
+
+is this function evaluative one,
+
+which is going to be negative one third,
+
+plus two minus three.
+
+OK, so now that takes care of this and roll over here.
+
+Yeah, so now
+
+we just got evaluate this one for, so that's going to be
+
+plus
+
+or so the third over three,
+
+that's going to be 64 over three.
+
+negative two times four is going to be
+
+eight. And then three times four is 12. Okay?
+
+And then the minus the same
+
+thing evaluated at three. So three cubes, this 179,
+
+negative two times three is negative six.
+
+And then three times three is going to be mine.
+
+Oh, oops,
+
+you're right. So
+
+it's a basket to be
+
+this minus 18, right?
+
+There you go.
+
+Which by the way, if you notice, nine minus 18 plus nine is going to be zero. Yeah, and similarly, negative nine plus 18 minus nine is also going to be zero. So please,
+
+zero. So really, just these three these three these three things. Okay,
+
+so all pause it here for now. And we
+
+got one
+
+minute left here, and we'll finish going over this and the other
+
+problems. Okay, so hold on to working with them. Tomorrow. We're going to
+
+play to battle the testimonies. I
+
+
+Alright, let's uh let's
+
+go ahead and get started
+
+today
+
+ourselves to comes up
+
+with a new exercise the latest
+
+up to one exactly the fundamental.
+
+So
+
+it's going to be based on the main value theorem as well as some other things that we've
+
+been talking about right in this class. So let's make sure we
+
+review
+
+of some concepts here. So first off, which of these
+
+concepts is true here? Is that f is continuous implies that this differential
+
+or is it at being differential implies that at this
+
+okay? We're in other words that can continuity implied different stability or is this
+
+differential ability like continuity? Which one
+
+would
+
+be y differentiable? It implies
+
+continuity right? If you know function is differentiable right as a as a derivative everywhere, then that means it must be continuous
+
+All right, that's true
+
+next what does it mean Belize interstate
+
+reschedule the picture? So
+
+let's get a picture. First of what that means. Valley theorem, the same
+
+right out there,
+
+I have a function that is continuous and differentiable over old is called
+
+as a and I'll just be say that type of access for that looks like like that between AMD
+
+Okay, then
+
+what for me value
+
+is continuously and differentiable over
+
+indeed, if I get the season line between angels, and
+
+then there's the guarantee that at least one value
+
+see between envy has
+
+a tangent line that is parallel
+
+to the
+
+second line. Okay. Okay,
+
+guaranteeing right. If the function is continuously differentiable, there's at least one point here that has a slope is equal to the second line between
+
+the
+
+right words, if app is continuous
+
+on
+
+the closed interval from a to b,
+
+continuous on the interval from a to b, and it is also differentiable
+
+on the open animal, or maybe he doesn't have to be their first
+
+week, then
+
+there is at
+
+least
+
+one value
+
+see
+
+in the open
+
+such
+
+of see, is equal to f of the apple over, right,
+
+so that slope of the tangent line at sea
+
+should be equal to the slope of the second line between the
+
+airport other words that are required to tell you, okay, those are two or three of f of x equals x
+
+squared.
+
+What is the integral of f of x with respect to x on using
+
+the power role for integrals, I'm just going to be execute or three constant, okay,
+
+if we call that g of x, what is the relationship between g
+
+of x and FX? Well, the relationship is that the derivative
+
+of g of x should be equal to f of x, right?
+
+The
+
+definition of the anti derivative.
+
+So who's the anti derivative of whom? Well, g of x
+
+is greater than
+
+or enhance, I'd rather.
+
+Alright, so there's that. Next,
+
+let's find value integral
+
+from the definite integral from one for x
+
+squared, using the limit process, I promise, this will be the last
+
+sketch and estimate
+
+first, okay,
+
+so we're integrating from once for x squared, we're going to find the limit
+
+limit as an
+
+entity of the summit from it goes one, two, and f of ci times delta, right?
+
+basically getting a real on sun, right?
+
+Because like x squared between one and four, okay,
+
+so
+
+let's figure out what delta x times the
+
+delta x by the length of the some interval, it's going to be the length of the entire minute intervals for minus one divided by the number of seven intervals, which were just assign this end
+
+over again, okay,
+
+we want to see I
+
+going to be able to
+
+all that is going to be the left most the left of the animal, but we're using the right hand rule. Okay,
+
+we're going to use the
+
+left of the interval and that's possible tools of the length
+
+of a sabbatical. So there, there's going to be one plus
+
+three over and tons of it. Okay,
+
+all right. Well, you know,
+
+this is once we found the limits as a purchasing
+
+in the summation of
+
+the negative adult diapers
+
+three over and
+
+times FMC AI, which is one plus three
+
+one plus three over
+
+plug this in
+
+into x squared, because that's the function that we're
+
+by finding the area under
+
+infinity of separation from equals one, two, and
+
+three over end times
+
+one plus three over x squared, which will be one plus six I over n plus nine i squared over n squared. Okay,
+
+there we go.
+
+And then I'm going to distribute the three over
+
+and this is going to be coming around approaches infinity of the summation revivals, ones, and a driver and times one is three over and
+
+river in time six over x going to be meeting I over x
+
+squared. And then
+
+three ever and time tonight, I swear over n squared is going to be 27, i squared
+
+over and Q. Ok. And then let's get the combination of all three of these things here. Okay,
+
+so this
+
+becomes the limit as and approaches infinity. Okay,
+
+that's
+
+going to be
+
+somebody should have three ever and that's a constant. So that's
+
+going to be three over n times n
+
+plus the summation of 89 Red Square, that's going to be 18 over n
+
+squared
+
+times summation of five,
+
+which is n times n plus one over two plus.
+
+And then the last one is going to be 27 over
+
+and cube
+
+times the summation of i squared,
+
+which will be n times n plus one times to
+
+n plus one.
+
+All over six. Okay,
+
+can get stuff out and can cancel out eating divide by two becomes nines
+
+and 10s. Load one of the items down here,
+
+27. Number six, we can divide the top and bottom by three and get to and
+
+not a number two, right,
+
+hold on.
+
+Oh, right. Yeah, we end up canceling, cubed Internet, and squared. Okay.
+
+All right there. Yeah, we're good. Okay,
+
+so let's,
+
+let's
+
+fix this real quick.
+
+So we get the limit as an approach infinity of, that's going to be
+
+three.
+
+And then this is going to be nine
+
+times n plus one, which is nine
+
+plus nine over in.
+
+And then this is going to be a,
+
+so n plus one times two angles. One is going to be two x
+
+squared plus three x plus one. And then we'll multiply it by nine.
+
+And we'll get 18.
+
+And squared plus 27 plus nine. There we go over to over to in sweat. There we go. Okay,
+
+cool. So now we got that. Okay,
+
+so let's let integration affinity for all of these years. So
+
+that's going to be
+
+three plus the limits and approaches infinity of nine plus nine over and it's going to nine. And the limit is no versus infinity of this
+
+whole thing is just going to be eating over to
+
+which becomes nine as
+
+well. Okay, so we got three plus nine plus nine, and that's 12 plus nine.
+
+And we finally get 21. Okay,
+
+so that is the value
+
+is the value
+
+of definite integral from norms for
+
+x squared dx. Okay. It's not
+
+a limit of a separate parts
+
+doing it. So we can make a common denominator. One big question, but do you have to do that?
+
+No,
+
+no, you can just do them separately. Yeah, absolutely.
+
+These are my opinions. But you want to go
+
+there we go. So there's that
+
+well, though, we're going to do it right. Okay. Okay.
+
+Number
+
+five, right?
+
+definition of definite integral from a to b
+
+connects with respect
+
+to x. So just using the limit rule, that is going to be the limit as damn
+
+infinity, summation, or minus one and MCI
+
+times delta x, right? That is,
+
+that's what that is, right? That's just the
+
+limit definition of a of the definite info.
+
+So let's right
+
+definition of f g of x is an anti derivative
+
+of f of x with respect to x,
+
+then by definition, that means that the derivative of g of x
+
+is equal to f of x. OK,
+
+now we're about to have one value theorem to g
+
+of x. But let's make sure that we understand how can we be sure that we can apply them evaluate them
+
+for the function g? Well, if God
+
+is differentiable, right?
+
+If we've defined g
+
+as the anti derivative of that back, then we know that she has a derivative, which is equal to x. And if it's differentiable,
+
+then is
+
+continuous, okay.
+
+And if Jesus differentiable and continuous,
+
+then we can apply the knowledge, right?
+
+Because those are the two things that have to be true in order to apply them evaluate them to function. Okay,
+
+so now that we know that Jesus differential in
+
+continuous, we can apply a new value there to G.
+
+OK, so number
+
+eight Figure shows function g and follow number six, right?
+
+The conclusion of the valley there as it applies to G on the interval from
+
+x equals eight x equals was calling x one, okay,
+
+can illustrate your conclusion on the ground. Okay, so
+
+let's
+
+write the value if we get
+
+the slow
+
+if we create the 10, the second line between a
+
+right this one here
+
+and this one here,
+
+at
+
+least one, there's a guarantee that at least one value
+
+will call this see one
+
+as a tangent line, right?
+
+It's tangent
+
+line is going to be parallel to the second line between a FA or God, in this case, x one G, except one. Okay,
+
+so let's write that out. What we're saying is that g prime, see someone is equal to the slope of the second line, which is G attack sub one minus g of A divided by x one minus a, right that is the slope of the tangent line is equal to this world of mistake. Okay,
+
+so
+
+let's apply this thing
+
+here to remind
+
+not
+
+be here on the next
+
+show shows that the graph of f of x
+
+shows we drop the F of X number six. Okay,
+
+let's see one C to C three all the way to see stuff and
+
+be assembled points determined by the main value there as In problem number four. Okay, as
+
+it we've chosen see one as the
+
+line as the point that has a slope
+
+of the tangent line that is equal to this open the second line we've chosen see to as the point of that as tangent line that is equal to this open the second line between next one next year. Okay, so we're not choosing the midpoint. We're not choosing, you know, we're not using the right hand rule that tenable we're choosing the point that specifically
+
+it's guaranteed by the main value, okay,
+
+so we write the some RM right we're getting into some
+
+of these
+
+and rectangles here for the integral from a to b f of x
+
+with respect to x using the SAM what is an eagle
+
+delta x value to show remote some on the graph. So just to be clear,
+
+right we're using see one, so the first
+
+rectangle here
+
+is going to have a high of FFC one
+
+so we're using the value of f of x FC one to determine
+
+the height of that first rectangle
+
+we're using see to
+
+to determine the height of the second rectangle
+
+we're using the same
+
+three to determine the height of the third rectangle and so forth and so forth. Okay, so what is the area of all of these rectangles?
+
+Well our end
+
+is going to be equal to
+
+the area of the first rectangle
+
+which is going to be the heights which is f of x sub one on a FMC website you one right
+
+see one determine the height of this rectangle
+
+times the height or the times the width of this rectangle
+
+which is the difference between x one and page so that
+
+is x one x one minus age as the areas the first rectangle okay the area the second
+
+rectangle is going to be FFC to that is a tight
+
+times
+
+the width of the second rectangle which is going to be x two minus x one
+
+okay
+
+the area the third rectangle project is
+
+going to be seen three FFC three times X
+
+sub three
+
+minus x up to
+
+right and that's going to go all the way down right never
+
+see four times x or minus x
+
+three all the way down to this last rectangle here is let's draw the plus rectangle by the way
+
+okay so this last rectangle
+
+here the end right title
+
+is going to have a heights I'm just gonna put it down here the height is going to be f of c sub n times b minus x
+
+sub n x minus one
+
+A B minus x minus one okay so we're just
+
+adding and rectangles together
+
+right and area and rectangles
+
+together okay so
+
+here's a bar
+
+by the definition of an indefinite integral
+
+we defined g of x to be such that Jeep running backs is equal to f of x
+
+so that means g privacy one
+
+is equal to ever seen one and that's what we're going to replace with all of these here
+
+okay
+
+so FMC one we can set up for chief privacy one efforts into the setup for
+
+YouTube and
+
+so forth and so forth so our end right the area which is by the way the area
+
+under the script okay
+
+our end is going to be equal to
+
+g prime of see one times x one minus x one minus a
+
+plus FC to we can replace it from chief
+
+privacy to
+
+accept two minus x one
+
+and then g ever see three we can replace g prime of c sub
+
+three times x
+
+minus x two
+
+okay so far from so forth all the way till we get to the last one
+
+she Brian of
+
+season n times b minus x sub n minus one
+
+right and by the main value
+
+so now we're applying the main value
+
+and if we've chosen c one c one c three as the valley that is guaranteed
+
+by the main value there
+
+then implies that you probably have seen one
+
+should be equal to the slope of the secret line between the points at K XM one
+
+or another words do you find we've seen one is equal to g of x one minus GOP divided by x minus a GMC sub two is equal to like g of x two minus x one divided by x two months next one and so forth. And so five appropriate substitution show that the room on some proposal number nine equals GP.
+
+So let's go ahead and do that are
+
+emphasizing
+
+equal to So g prime of see one is
+
+equal to this, right, the slope of this even line
+
+so that is g of x someone minus g of A over x minus a, okay,
+
+times x, so one
+
+over x minus a
+
+plus and then replace g privacy to
+
+with g of action here, g of x two minus g of x sub one over x two minus x one
+
+times x minus x
+
+one, okay,
+
+and then g plan will see three we're going to replace, I'm actually
+
+going to new line here,
+
+we're going to replace g of
+
+x three
+
+minus x three clients, g of x two lot divided by x three minus
+
+x sub two, times x sub three minus x sub two, okay, that I'm going to skip a few here in the middle,
+
+and then go all the way to the last rectangle. So g price of si n is equal to GE
+
+t minus g
+
+of x sub n minus one
+
+over the minus
+
+minus x sub n minus one and then times b minus x minus one. Okay,
+
+so we've just made appropriate right replacements using the mean Valley right
+
+so now let's take a look at what happens here.
+
+So one minus eight by by x minus one minus eight cancels out right back yourself to one
+
+or two one
+
+was cancelled out as well, these counselors or these cancel
+
+out
+
+as well. Okay,
+
+so what are we left with g
+
+of x one minus a plus g of
+
+x two
+
+minus two x one plus g of x up three minus two x two. Okay, let's take a look at what are we left with it right, we're left with g of x one minus a plus g of x up to minus g of x one plus g of x three minus g of x two all the way to
+
+she be minus one
+
+minus one, sorry. And then if you notice
+
+here, g of x, one minus x,
+
+one cancels out single, there's
+
+three, that's going to cancel out as well. And
+
+then eventually, they're gonna have to accept n minus one
+
+in here somewhere, that's going to cancel out with this G
+
+of X
+
+seven minus one. So what are we left with, in the end, this
+
+some
+
+in the end, the only things that didn't cancel out or negative g have a and positive G, A, B.
+
+And if
+
+we reverse these two,
+
+and we get G, A, B minus g, okay,
+
+and this
+
+is where you're supposed to go.
+
+So
+
+I want
+
+to just point out something
+
+looking for we use the limit, some we used to limit property, we're
+
+not even the limit probably right,
+
+we just turned it into an rectangles to get the area that's under this perfect between
+
+Andy. And what
+
+we found out is that this entire area, when you calculate it all in the hands free, choose the right points
+
+here, using the value that
+
+ends up just being the anti
+
+derivative evaluated at the edge.
+
+And the difference between the two, right? That's what do you have x is the anti derivative of f of x. So this leads us to
+
+the fundamental determine, which is
+
+the answer Problem number 10 is an independent variable,
+
+fill in the blank,
+
+if we are taking the definite integral of FX
+
+with respect to x, or b2b, and it is legal to G, A, B minus gene have a where
+
+GFS is defined
+
+as the anti derivative of f of x,
+
+or enhance it. Okay,
+
+so basically, you just evaluate the anti derivative of
+
+f of x, okay,
+
+and then evaluated a few endpoints so attracted to, and that gives you the value of the anti derivative, or in
+
+other words, the area under the curve of f of x,
+
+the x axis, OK,
+
+so the conclusion that we just made here is called the fundamental thing with calculus,
+
+show that we
+
+understand what it says that you're using It's fine, exact value
+
+of integral from one to four x squared
+
+with respect to x. Okay, so let's go ahead. And
+
+so here's how this works.
+
+Integral definite integral from one to
+
+four x squared perspective, okay,
+
+calculate the indefinite integral export
+
+going to be
+
+x cubed over three
+
+plus the concept.
+
+And then what we're going to do is we're going to evaluate this anti derivative
+
+of one
+
+and subtract them from so Okay, so this anti derivative evaluated at four
+
+is going to be for cubed over three
+
+plus seed. And
+
+so here's the anti derivative, evaluating the four. And we're going to subtract that from the anti derivative evaluated at one,
+
+which is one cubed over three, four, see
+
+why these a little bit for
+
+Q to 64. So we get 64 over three plus C. And then
+
+one cubed over three is one third. And I'm going to distribute the negative so that's going to be negative one third, and then minus
+
+C,
+
+he sees
+
+cancel out which they already showed, by the way, whenever you
+
+evaluate a definite integral Caesar gonna end up canceling now.
+
+And then 60 over three minus one third
+
+is 63 over three, which is
+
+equal to
+
+21,
+
+which is the answer that we got the number for
+
+the fundamental
+
+data calculus is something that we can use to
+
+evaluate the panel, instead of having to use will limit, okay,
+
+but we needed to limit definition to burn that this,
+
+this one will actually works
+
+and
+
+questions about that.
+
+So now you know how to belly with a
+
+linear process.
+
+Let's try that again.
+
+Let us do a together
+
+anyway, from zero
+
+to one, two x with respect to x. So that is going to be honest, evaluate the integral have to accept that it's going to be
+
+two x
+
+squared over two plus the constant
+
+can then choose can cancel out. So we're left with
+
+x squared plus a constant evaluated at zero. Okay,
+
+so I want the
+
+value of this integral and going to evaluate the anti derivative at one and zero
+
+and then subtract
+
+them from each other. Okay,
+
+so this is going to be one
+
+one squared plus c
+
+minus zero squared plus C,
+
+which is going
+
+to be one plus C
+
+and then zero squared, zero plus years when DC
+
+and then source attract and C.
+
+So C minus C cancels out and you're left with one
+
+confirm that
+
+answer by getting the
+
+value of this integral using geometric definition right? If you grab two x between zero and one and find the area of that triangle that informs
+
+between the rap in the x axis you can find out that area
+
+under the curve is actually equals. Okay.
+
+All right, class. We still got
+
+about four minutes. Why don't you go ahead and just work on the
+
+rest of these. I wanted to mention this
+
+to the internet
+
+we have an open area
+
+
+All right, let's go ahead and get started here.
+
+So today, we
+
+are still in section three.
+
+And today
+
+we're talking about three months
+
+can be used
+
+to evaluate.
+
+So remember one thing that the definite integral, basically the basic terms of a basic enable, because that is finding the area under the curve between two human values
+
+of x ray. So let's say this is a, let's be, let's say this is f of x.
+
+And if we look at the area under the curve of FX, right,
+
+then this area, that
+
+area is equal to
+
+e, f of x
+
+x.
+
+But what we're going to talk about today
+
+is how you can evaluate this using a remote, right,
+
+because we also know how to take
+
+on the area
+
+under the curve on that backs it up right angles
+
+and get the area of those rectangles area
+
+under the curve between me and the
+
+right. And in fact, if we make them the rectangle small enough and let enterprises infinity, then we end up with the exact area under the curve. This is exactly what
+
+Okay, so that being said, let's talk about the definition
+
+of
+
+a definite.
+
+So here's
+
+the definition of
+
+it a close interval
+
+and
+
+the
+
+limits
+
+of persons infinity,
+
+the summation,
+
+see
+
+delta x
+
+is based on time, okay,
+
+is also defined,
+
+then
+
+yes,
+
+as it has an integral
+
+integral
+
+level from A to B.
+
+And
+
+following equation will be
+
+integral
+
+X
+
+the X
+
+equal to women
+
+and approaches to infinity,
+
+summation
+
+times delta
+
+x, I
+
+basically saying
+
+is that if you have a function
+
+that has an integral over a specific animal, right,
+
+that has an emerald that exists over a specific interval,
+
+then we can figure out the value of the definite integral of the function over that interval
+
+using the limit process, right?
+
+The limit in summation process
+
+that we use that we've used previously to get the area under the
+
+curve, right, which is basically getting the area of an
+
+infinite adding up the area of an infinite number
+
+of rectangles. Okay, that's basically.
+
+So
+
+that being said,
+
+let's do an example.
+
+Unless
+
+process.
+
+OK,
+
+OK, so the five want to integrate to x with respect between negative one,
+
+somebody
+
+I want my work, I also want to keep in mind that this is finding the area under the curve to x
+
+between negative one into right, if I were to grab to
+
+negative one to finding the area between that curve and the XX. That's exactly what this is going to do here as well. Okay,
+
+so
+
+we're getting the
+
+limit. Right? As enterprises and 74 miles ones or something
+
+and right angles. Who's area
+
+this? MCI
+
+times delta x five, okay, delta
+
+x, IBM, the length of sustainable
+
+MCI the
+
+right, the right hand, or left 10 in points will just use my handle in this case, right.
+
+So as the height of each of the rectangles, okay,
+
+so let's be grown with the value each of these are first, right, so
+
+So
+
+delta x.
+
+So as we said, this, the width of a sub interval, so we get
+
+the width of the interval by taking
+
+the width of the entire animal, which is going to minus negative one divided by the number of animals that were
+
+using, which is
+
+going to be end framework, splitting it up
+
+to minus one
+
+is three
+
+over and like there's a delta x i, OK. And then let's figure out what cis
+
+and we're going to use the right hand, right, so we're just
+
+getting basically the right, okay,
+
+so ci,
+
+using the right hand rule. So right hand,
+
+and
+
+it's going to be equal to, right,
+
+the very first, the left hand left most part will be enrolled, which is negative one,
+
+plus a multiple of the length of
+
+the summit. So that is three
+
+times, Okay,
+
+so the first, right and and point is negative one plus one over n. And the next one is going to be negative one, plus
+
+two times three over
+
+the next one, another one for three times
+
+the river and so forth. Okay. And, in fact, the negative one,
+
+plus three. Okay,
+
+so that's our CI. Okay,
+
+so we'll plug this in for See, I've been the same for delta x.
+
+And then we're just going to go ahead and get that summation. Okay,
+
+so this is going to be equal to
+
+the limits
+
+as
+
+an approach infinity of the summation four miles one to end up, I'm just going to write those and excited for so that's three
+
+over
+
+and
+
+see that
+
+some three over and times
+
+times f,
+
+or right hand and point which is negative one plus three
+
+I over and
+
+Okay,
+
+an F of this
+
+be like half of x is
+
+equal to plug in negative
+
+one and x. And that's
+
+going to be limited
+
+infinity of
+
+summation from it was one, two, and three over end times, right,
+
+times two
+
+times negative one plus three.
+
+All right,
+
+there
+
+are six
+
+over
+
+distribute that over negative one, three
+
+steps here.
+
+And of course, and
+
+dissemination from idols one, two, and six
+
+times negative one, that's going to be negative six over man,
+
+and then six
+
+over and times three is over, and
+
+is going to be 18 I over and
+
+square positive 18 times
+
+I'll rewrite this stuff on the other side, okay, so that's going to be the limit limit has and approaches infinity of negative six over
+
+and summation from high
+
+equals one and six over and negative six,
+
+negative six over n plus 18 I over and square, right? Yes. Okay. So there we go.
+
+And then let's go ahead and start performing the summation
+
+tier.
+
+So negative six over in
+
+as far as the summation goes is a constant, right, because it's in not in terms of
+
+the limit
+
+and versus infinity,
+
+or I'll just leave this as a concept. And so this is going to become the
+
+summation,
+
+some differences, but somebody
+
+should from I was wanting to end up just negative six over again. And then plus the number the meeting I ever n squared,
+
+I'm going to take out the at number one squared, because that is a constant in terms of the summation, right? It's not changing as I changes. So I'm just going to be competing over n squared times a summation from I was one to end of just
+
+okay.
+
+All right,
+
+now, let's use the summation rules here.
+
+Negative six over it is a constant.
+
+So when we some other concepts from idols, one to end, it's just going to become their constant times. And so this is going to become negative six and over again, right?
+
+Plus 18 over
+
+n squared times as somebody should have by from libels one to end it's going to be n times n plus one or two
+
+times
+
+n plus one
+
+over to
+
+right. Okay,
+
+let's do this in mind here,
+
+these cancel out,
+
+18 divided by two becomes nine.
+
+And this end in general, I would want to be ends from the
+
+square here, okay.
+
+All right. So this becomes a limit as an
+
+approach is infinity of, now, this is just negative six.
+
+And this over here is a nine times n plus one
+
+through nine and plus nine
+
+over, right, so let's not
+
+over, okay,
+
+so
+
+as and
+
+approaches infinity, the constant negative six is
+
+going to remain as negative six.
+
+And the limit is no versus infinity of nine plus nine, number nine
+
+is going to become nine over one or nine, so we get negative six plus nine
+
+equals three. Okay,
+
+so what we just found
+
+was the integral from negative one to two
+
+to x
+
+dx, okay,
+
+so we use the limit process, right, the limit summation process to figure
+
+out the value of this integral, because we know that the value of this is the
+
+area between the curve
+
+have two Macs and
+
+and the x axis negative one. Okay.
+
+Now, to show you that this is actually the correct answer, let's actually take a look at the graph of two x
+
+minus one. And let's use the geometric methods to figure
+
+out
+
+the value of this.
+
+So some
+
+graphs,
+
+so
+
+here
+
+too late.
+
+And you also need this value, negative one, because I did one nothing, nothing
+
+like the route into the routing
+
+x intercepts of zero. And then at x equals negative one is going to be
+
+negative, right.
+
+And that equals two is going to be for someone to
+
+use force. And here is the graph
+
+of two x between
+
+between negative one.
+
+So we're finding the area between the curve
+
+between the two X the X axis between negative one and two.
+
+And what we're finding is the area of
+
+this triangle here.
+
+Well, we're also finding the area
+
+of this triangle here.
+
+OK,
+
+now, I wanted to know something
+
+that when you calculate the area between the
+
+curve and the x axis, and the purpose
+
+below the x axis, this areas
+
+so below x axis, just know that when the
+
+area is below the
+
+x axis, that means
+
+that the integral
+
+that the value of the integral is going to be
+
+okay, so we'll get the area of that area. Okay,
+
+so let's get the area here. OK, so the area is going to be one half be
+
+some type in the base in this case, is two times the height, which is for someone, half times two is one time
+
+sport is equal to board, okay, and the
+
+area of this triangle below the x axis, or
+
+the base that is one
+
+is going to be one half times
+
+one times the height, which is too
+
+so once I'm two is two times one half, I just wanted to be one, okay?
+
+But again, spelling is negative.
+
+So
+
+by one integral from negative one to
+
+two x with respect to x,
+
+that is going to be the area of this triangle that is above the
+
+x axis for
+
+was the opposites of the area of this triangle below the x axis. So the negative one and four plus one
+
+equals three, right? And notice
+
+just getting the area of these triangles
+
+same area by taking live by splitting up these key areas here, infinite number
+
+of rectangles and
+
+adding up the area of those rights. That's basically what we did to get to get that by using the submission process and that
+
+approach.
+
+Any questions? Okay,
+
+so now
+
+we're able to evaluate when he goes through the
+
+process, okay, this is going to allow you to
+
+function even if it doesn't create, you know, familiar to you, okay.
+
+
+
