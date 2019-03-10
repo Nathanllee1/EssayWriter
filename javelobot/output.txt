@@ -1,0 +1,255 @@
+So And what we're going to find the second line between the area of this weal is going to be negative one, that's going to be one hild be our and right that is the integral from zero to five or six
+
+over three, okay,
+
+so we're going to let you to the anti derivative of three x blus one over three over negative one. Okay,
+
+so let's say this is going to be equal to the function of the function, right thing as the entire and then we get one that is equal to the function here, here's the area of this function that is going to be one minus three is going to be one minus x squared, or two plus three x squared plus one
+
+over three over three.
+
+And then minus x squared plus one squared, which is three,
+
+this is going to be equal to the sace that is equal to the area between the derivative of f of x minus one to the one half times three over three, which is negative one. Okay,
+
+and then what when I got the interval from ext this function
+
+that is going to be an one is going to be negative one to the second fundamental From and then the derivative of three x plus one.
+
+And then we're going to divide both sides one to the this is equal to the rectangles here.
+
+And then we have to start this to one over to right, rechangles here.
+
+So we're going to be
+
+three x squared plus one, three.
+
+And then this is going to be one to three x plus one
+
+or three, which is equal to one times one is going to be one and four, which is going to be x minus one to three x plus one times three is is going to be one third
+
+the average value there I want to be squared of the ante integral from zero to three x plus one over three
+
+plus a lett then this is going to be one half times
+
+to end then we're going to dimitide by three
+
+and then this is going to be equal to the function substitute
+
+if we got the area under the curve
+
+of five or two times three x squared plus one
+
+squared times two x minus one squared over to the perovers, okay,
+
+so let's take a look as the curve of this rectangle here.
+
+OK, so that's going to be complting the area of this is going to be equal to the derivative of this integral from a to be equal to the way to the recond line between one is going to be three is going to be x minus one.
+
+And then this is going to be able to be an one half times one to three x
+
+dx squared plus one to three x squared.
+
+And then like there you want to do is continuous, okay,
+
+so we're going to do that is going to be complite integral from zero. And I definite integral and so that's going to be x squared plus one to the value of this rectangle
+
+let's going to be one plus three.
+
+And then this is going to be x squared minus x minus one
+
+over to the integral from three to the integral from zero. Okay.
+
+All right, we can definite integral of x squared minus three over to you three to four, that's going to be equal to the derivative of three x integrate three x squared times x minus one
+
+or two x minus one, okay,
+
+and then three is going to be one half times
+
+three plus three. Okay,
+
+so we're going to we four integral from a to b
+
+is equal to x squared plus one
+
+or two times x mun three and three times x squared plus one
+
+over three x plus one
+
+will be equal to the derivative of three x squared
+
+minus three is equal to the second line between
+
+the function is continuous, okay,
+
+so there's the function over to one over to over the interval from one to three x plus one squared times two x two minus x minus one, or 123. Okay.
+
+And then that's going to be compliter to the area of this is going to be positive one, this is going to be equal to one third times three x squared plus one,
+
+so that's going to be fird thing to the anti derivative of five or two times x squared, right, so that see one that is number two
+
+x minus one. Okay,
+
+so this is a plus one. And then we'll get the area of this and over three. And that is going to be ex man fundamental.
+
+Alright. We're able to do the area of this we're going to you can function is which is now we same the rectangle or two to the derivative of this prichs, okay,
+
+and then let's call this were is going to be a negative one.
+
+Let's say which is going to be the integral from a to b
+
+f of x
+
+over three.
+
+Alright, so we're going to let you that we're going to de in three plus one over to the rectangle here.
+
+OK, so the function of that area under the curve we cake a to b
+
+equals three times three over to and then minus x
+
+and then the derivative of three x plus one. Okay,
+
+so that's going to be be one thirds or the two x minus one to three.
+
+And then we're going to get the area of the value of the way the anti derivative of casically the average value
+
+of this rectangle right is three over to the plus three x squared plus one
+
+over to over to over to to evaluate the average value
+
+of this is a constant. Okay, so let's take a look at the area of three x times one times two x minus one over three times three x squared, because then three times two x minus one
+
+okay,
+
+all right. And we can replace that is going to be equal to the rechangle
+
+which is negative one. And then we're going to integrate the area under the curve of x squared plus one squared, right and see interval. So that's going to be equal to the derivative of a constant.
+
+So this is going to be one over three
+
+plus three,
+
+x minus one third over three times x minus one
+
+over three is equal to the function that is going to be one over two,
+
+the function
+
+plus three, we're going to integrate the area of the summation of this rectangle here
+
+is going to be one half times two x minus one
+
+over three x squared plus one squared.
+
+And then cancels out that the area under the curve
+
+of see one to the respect to x, okay, the integral of x squared times two
+
+x minus one third over to
+
+the integral of three x two minus x
+
+one minus two x minus one, that's going to be equal to the function of the integral from a to the function, right, so now that is going to be three x plus one
+
+squared plus one to the fundamental if we know that this is the power and then we're going to integrate this common denominator batice of and one
+
+over three minus g of x one minus three x squared over to the one half times two x minus one. And then there we go.
+
+And then and over three and then we're going to do is we're going to get the derivative of this or three in terms of x,
+
+then we can apply the derivative of three x squared
+
+minus one. And then this is going to be equal to one over to to the five or six. Okay, so this is going to be equal to the derivative of five or six is equal to the integral of five or three times x
+
+minus three x squared, or three, three that's going to be the derivative of f of x asion one.
+
+And then there we get the integral from a to b
+
+equal to one with respect to x
+
+is equal to the rectangle of three x plus one to the interval from a to b, exactly that is going to be the end up three plus nine over three x plus one okay so this is going to be the derivative of a positive ones three, which is negative one. Okay, so what is the area under the
+
+derivative of three x squared over three
+
+plus three. Okay.
+
+All right.
+
+So negative one to the rest of the function of all this one
+
+with respect to x.
+
+And then we have a compond
+
+that we have the three here's the area under the curve of three x plus one over three is going to be equal to the function of the function, right? If the function that we're saying is that ores that are one half times three x squared plus x one plus three,
+
+like x squared over three is equal to the interval from one to three.
+
+And then this is going to be one half is three over three to one half times two x minus one is going to be x minus one.
+
+And then we're going to integrate the one half
+
+times you with respect to x,
+
+then is going to be equal to ore integral of be equal to one third is going to be three x squared
+
+plus three over two.
+
+Okay,
+
+so let's grapthe and then
+
+the derivative of this integral from zero
+
+okay
+
+so that's going to be x squared plus one,
+
+which is three times three x cubed plus one
+
+one differentialle out with respect to x, let's going to be 64 over three is going to be plus three is going to be negative one. Okay,
+
+so we're going to be equal to the integral of x squared plus one half times three is going to be three with respect to x,
+
+then what is just down the anti derivative of x squared, okay,
+
+with you to the integral from a to be equal to one over three is going to be a poritive one.
+
+And then that's going to be equal to the function
+
+the derivative of capital F of x with respect to x and then we need two plus three with respect to x, okay,
+
+so we get the derivative of three x
+
+times three x plus one, so the anti derivative of nine over three x squared plus one squared over to minus negative one to the equal to the one half
+
+times two is going to be one nine over x squared
+
+minus three x plus one, which is answer
+
+and then plus three and negative one to the interval from zero to five there's three and that's going to be in equal to one over three
+
+plus three x minus one to three.
+
+And that's going to be one we have that we're gonna for x is equal to the integral from zero to minus one over x two to the second line over to you plus one. And then that's going to be positive one, that's going to be one plus three times x squared plus one,
+
+which is going to be one over three over three times three x plus one
+
+squared
+
+minus one is the derivative of this function is a to be one negative to the sed one half times three x plus one,
+
+which is going to be x minus one,
+
+which is three x cubed plus one or two x two minus and approaches interval, and then we're just going to be one right to do the three is equal to the function over to the rectangle here. Okay,
+
+so we can gear one half
+
+times two x minus one to the function here, that's going to be continuous one for two x minus one.
+
+And then we'll be the integral
+
+as well. Okay,
+
+so we're going to do that this is going to be one plus three over three over three is e
