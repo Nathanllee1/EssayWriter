@@ -1,8 +1,8 @@
 from gtts import gTTS
 
 
-output = open('output.txt', 'r')
+output = open('output2.txt', 'r')
 
 data = output.read()
 tts = gTTS(data)
-tts.save('Javelo.mp3')
+tts.save('fulllecture.mp3')
